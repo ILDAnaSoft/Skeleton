@@ -29,6 +29,14 @@ Explain here:
    - Shell scripts ?
    - Run the analysis on grid if you provide scripts for that
 
+Example for the skeleton:
+
+From the top-level directory of the repository:
+```shell
+export MARLIN_DLL=./lib/libYourProjectName.so
+Marlin ./scripts/ExampleProcessor.xml
+```
+
 If you want to provide a lot of details on your analysis, use the doc/Readme.md and point to it from this Readme.md file:
 
 More documentation available here in [doc/Readme.md](doc/Readme.md) !
