@@ -1,5 +1,5 @@
 #######################################################
-# cmake file for building example package in ILDAnaSoft
+# cmake file for building %(repository)s analysis package
 # @author Ete Remi, DESY
 #######################################################
 
